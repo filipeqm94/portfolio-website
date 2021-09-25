@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans&family=Source+Code+Pro&display=swap");
+
+// #072A2B
+// #74F8FC
+// #28F5FC
+// #397B7D
+// #20C4C9
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #072a2b;
+  color: #28f5fc;
+
+  font-size: 2em;
+
+  font-family: "Encode Sans", sans-serif;
+  // font-family: "Source Code Pro", monospace;
+}
